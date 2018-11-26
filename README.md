@@ -2,13 +2,13 @@
 
 This readme aims at facilitating organizing Side Project Club at 42.
 
-## Goal of SPC
+## Goal of SPC 🚀
 
 Side Project Club's goal is to gather all project creators in 42, and give them a place to share and help each others.
 They can share their advancement, goals, and it allow them not to be lonely on their projects.
 We also use Side Project Club to track startup internships' evolutions.
 
-## What is it
+## What is it ⚙️
 
 It's every Tuesday at 6pm.
 It's a one hour meetup where 20 persons maximum (be flexible) seats around a table, and talks about their projects.
@@ -32,14 +32,14 @@ A mardi !
 ```
 
 
-### Timing: 
+### Timing 🕰 
  * 18h00 Start the SPC
  * 19h00 End the SPC and let people talk
 
 
-## Organisation
+## Organisation 💂‍♂️
 
-### Before the event
+### Before the event 🖥
 
 Things to prepare and think about :
 * Book a time and a place with 42 staff (in Paris, the Valhalla is our favorite), with intra description (see appendice below). We usualy book all Tuesdays for 2 months in one mail, so that we don't bother the administration every week.
@@ -47,17 +47,17 @@ Things to prepare and think about :
 * Come 5 minutes before the event and ask to the welcome desk for a badge to open the room booked by 42Entrepreneurs.
 
 
-### During the event
+### During the event 🔥
 
 
-* Set a 5 minutes timer and let it ring a bit, for everyone (don't let people go too much over the 5 minutes)
+* Set a 5 minutes timer and let it ring a bit, for everyone (⚠️ don't let people go too much over the 5 minutes)
 * Ask who's doing a startup internship, and begin by them. Remember to note their presence on the Startup Insternship Trello.
 * Try to finish the event on time, at 7pm. More than an hour listening to pitches can become annoying.
 * Let people chat after that.
 * Give the badge back to the welcome desk and note the startup insternship in the trello if you haven't done it yet.
 
 
-## Appendice
+## Appendice 📜
 
 **Description Intra:**
 ```
